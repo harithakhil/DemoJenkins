@@ -8,6 +8,7 @@ public class Sum {
 		int sub=a-b;
 		int mul=a*b;
 		int div=a/b;
+		System.out.println("arithmetic operations");
 		System.out.println("add= "+add);
 		System.out.println("sub= "+sub);
 		System.out.println("mul= "+mul);
